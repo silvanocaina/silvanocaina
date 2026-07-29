@@ -2,7 +2,7 @@
 
 <h3>Tecnologias</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,nodejs,express)](https://skillicons.dev)
 
 <h3>Status</h3>
 
