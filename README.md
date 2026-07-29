@@ -2,6 +2,8 @@
 
 <h3>Tecnologias</h2>
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs)](https://skillicons.dev)
+
 <h3>Status</h3>
 
 <table align="center" cellspacing="0" cellpadding="0" >
