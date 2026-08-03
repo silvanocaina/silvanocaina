@@ -1,10 +1,23 @@
-<h3 align="center">Olá me chamo Silvano 👋</h2>
+<h1 align="center">Silvano Cainã</h1>
+Dev full-stack junior em busca da sua primeira oportunidade de emprego na area
+<h2>Tecnologias</h2>
 
-<h3>Tecnologias</h2>
+Essas são as tecnologias que eu estou aprendendo e utilizando
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,nodejs,express,prisma,mongodb)](https://skillicons.dev)
+#### Tecnologias que eu estou utilizando no Front-End
+[![My FrontEnd Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+<br/>
+#### Tecnologias que eu estou utilizando no Back-End
+[![My Backend Skills](https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb)](https://skillicons.dev)
+#### Ferramentas que eu uso
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
-<h3>Status</h3>
+<hr/>
+<h2> Projetos</h2>
+
+- [Simple Online Store](link) — Uma loja simples apenas no front end
+- [paletaForge.IO](link) — Site de paleta de cores que esta sendo desenvolvido ainda
+<h2>Status</h2>
 
 <table align="center" cellspacing="0" cellpadding="0" >
   <tr>
