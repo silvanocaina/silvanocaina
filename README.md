@@ -7,18 +7,24 @@ Atualmente estou cruzando a fronteira entre Front-End para Back-End, me tornando
 Essas são as tecnologias que eu estou aprendendo e utilizando
 
 #### Tecnologias que eu estou utilizando no Front-End
+
 [![My FrontEnd Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+
 <br/>
+
 #### Tecnologias que eu estou utilizando no Back-End
+
 [![My Backend Skills](https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb)](https://skillicons.dev)
+
 #### Ferramentas que eu uso
+
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
-<hr/>
 <h2> Projetos</h2>
 
-- [Simple Online Store](link) — Uma loja simples apenas no front end
+- [Simple Online Store](https://github.com/silvanocaina/simple_online_store) — Uma loja simples apenas no front end
 - [PaletaForge.IO](link) — Site de paleta de cores que esta sendo desenvolvido ainda
+- 
 <h2>Status</h2>
 
 <table align="center" cellspacing="0" cellpadding="0" >
