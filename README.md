@@ -21,7 +21,7 @@ Essas são as tecnologias que eu estou utilizando e aprendendo
 <h2> Projetos</h2>
 
 - [Simple Online Store](https://github.com/silvanocaina/simple_online_store) — Uma loja simples apenas no front end
-- [PaletaForge.IO]([link](https://github.com/silvanocaina/PaletaForge.io)) — Site de paleta de cores que esta sendo desenvolvido ainda
+- [PaletaForge.IO](https://github.com/silvanocaina/PaletaForge.io) — Site de paleta de cores que esta sendo desenvolvido ainda
 
 <h2>Status</h2>
 
