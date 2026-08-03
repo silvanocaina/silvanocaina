@@ -18,7 +18,7 @@ Essas são as tecnologias que eu estou aprendendo e utilizando
 <h2> Projetos</h2>
 
 - [Simple Online Store](link) — Uma loja simples apenas no front end
-- [paletaForge.IO](link) — Site de paleta de cores que esta sendo desenvolvido ainda
+- [PaletaForge.IO](link) — Site de paleta de cores que esta sendo desenvolvido ainda
 <h2>Status</h2>
 
 <table align="center" cellspacing="0" cellpadding="0" >
