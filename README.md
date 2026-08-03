@@ -1,5 +1,7 @@
 <h1 align="center">Silvano Cainã</h1>
-Dev full-stack junior em busca da sua primeira oportunidade de emprego na area
+Dev full-stack junior em busca da primeira oportunidade de emprego
+
+Atualmente estou cruzando a fronteira entre Front-End para Back-End, me tornando um desenvolvendor Full-Stack
 <h2>Tecnologias</h2>
 
 Essas são as tecnologias que eu estou aprendendo e utilizando
