@@ -10,8 +10,6 @@ Essas são as tecnologias que eu estou aprendendo e utilizando
 
 [![My FrontEnd Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
-<br/>
-
 #### Tecnologias que eu estou utilizando no Back-End
 
 [![My Backend Skills](https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb)](https://skillicons.dev)
